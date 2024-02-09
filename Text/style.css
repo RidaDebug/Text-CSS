@@ -1,0 +1,129 @@
+body {
+    background-color: #136b70;
+}
+
+.mainheading {
+    background-color: #b5afb2;
+}
+
+h1 {
+    color: rgb(252, 254, 255);
+}
+
+.font1 {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: #d0efff;
+    color: #2a9df4;
+
+}
+
+.font2 {
+    font-family: Georgia, Times, serif;
+    background-color: #d0efff;
+    color: #2a9df4;
+
+}
+
+.font3 {
+    font-family: 'ChunkFiveRegular';
+    background-color: #d0efff;
+    color: #2a9df4;
+
+}
+
+.font4 {
+    font-family: "Courier New", Courier,
+        monospace;
+    background-color: #d0efff;
+    color: #2a9df4;
+
+}
+
+p {
+    color: white;
+}
+
+.parastyle1 {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.parastyle2 {
+    font-family: Georgia, Times, serif;
+}
+
+.parastyle3 {
+    font-family: 'ChunkFiveRegular';
+}
+
+.parastyle4 {
+    font-family: "Courier New", Courier,
+        monospace;
+}
+
+.f1 {
+    font-family: Arial, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 34px;
+}
+
+.f2 {
+    font-family: Arial, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.f3 {
+    font-family: Arial, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.color {
+    background-color: rgb(4, 5, 5);
+    color: #ca0467;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.overline {
+    text-decoration: overline;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.one {
+    background-color: #ffffff;
+    color: #db084e;
+    text-shadow: 1px 1px 3px #666666;
+    font-size: 34px;
+}
+
+.two {
+    background-color: #ffffff;
+    color: #db084e;
+    text-shadow: 2px 2px 7px #666666;
+    font-size: 34px;
+}
+
+.three {
+    background-color: #ffffff;
+    color: #db084e;
+    text-shadow: -1px -2px #666666;
+    font-size: 34px;
+}
